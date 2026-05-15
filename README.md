@@ -1,6 +1,14 @@
 <h1 align="center">Seja Bem-Vindo(a)!!✨</h1>
 
 ###
+<p align="center">
+Olá! Meu nome é <strong>Laysa de Araújo</strong> ✨<br><br>
+
+Estou finalizando meu curso na área de tecnologia e buscando evoluir cada vez mais como desenvolvedora.  
+Tenho interesse em desenvolvimento web, design e criação de projetos modernos e funcionais.  
+
+Atualmente estudo e utilizo tecnologias como HTML, CSS, JavaScript, TypeScript e Node.js, além de ferramentas como VS Code, Canva, Notion e Trello. 🚀
+</p>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
