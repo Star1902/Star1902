@@ -2,7 +2,7 @@
 
 ###
 <p align="center">
-Olá! Meu nome é <strong>Laysa de Araújo</strong> <br><br>
+Olá! Meu nome é <strong>Laysa de Araujo</strong> <br><br>
 
 Estou finalizando meu curso na área de tecnologia e buscando evoluir cada vez mais como desenvolvedora.  
 Tenho interesse em desenvolvimento web, design e criação de projetos modernos e funcionais.  
