@@ -23,7 +23,7 @@ Atualmente estudo e utilizo tecnologias como HTML, CSS, JavaScript, TypeScript e
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 
-  <a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav" target="_blank">
+  <a href="https://www.linkedin.com/in/laysa-araujo-99429b40a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
